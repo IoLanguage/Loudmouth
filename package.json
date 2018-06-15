@@ -1,0 +1,15 @@
+{
+  "name":         "Loudmouth",
+  "version":      "0.1",
+  "description":  "Loudmouth is an async XMPP library written in C.",
+  "author":       "",
+  "website":      "http://Loudmouth-project.org/",
+  "readme":       "README.md",
+  "protos":       ["Loudmouth"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": ["https://github.com/IoLanguage/SGML.git"]
+  }
+}
